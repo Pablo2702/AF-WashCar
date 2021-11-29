@@ -10,6 +10,7 @@
 	<Item Name="Messages for this Actor" Type="Folder">
 		<Item Name="Contabilidad Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Contabilidad Msg/Contabilidad Msg.lvclass"/>
 		<Item Name="Create Database Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Create Database Msg/Create Database Msg.lvclass"/>
+		<Item Name="Load inventory Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Load inventory Msg/Load inventory Msg.lvclass"/>
 	</Item>
 	<Item Name="User Interface.lvclass" Type="LVClass" URL="../User Interface.lvclass"/>
 </Library>
