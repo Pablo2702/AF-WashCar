@@ -11,6 +11,7 @@
 		<Item Name="Credit Msg.lvclass" Type="LVClass" URL="../../Dinero Messages/Credit Msg/Credit Msg.lvclass"/>
 		<Item Name="Initialize credit Msg.lvclass" Type="LVClass" URL="../../Dinero Messages/Initialize credit Msg/Initialize credit Msg.lvclass"/>
 		<Item Name="Open FP in SP Msg.lvclass" Type="LVClass" URL="../../Dinero Messages/Open FP in SP Msg/Open FP in SP Msg.lvclass"/>
+		<Item Name="Update Credit Msg.lvclass" Type="LVClass" URL="../../Dinero Messages/Update Credit Msg/Update Credit Msg.lvclass"/>
 	</Item>
 	<Item Name="Dinero.lvclass" Type="LVClass" URL="../Dinero.lvclass"/>
 </Library>
