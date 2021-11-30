@@ -13,7 +13,6 @@
 		<Item Name="Read Services Msg.lvclass" Type="LVClass" URL="../../Paquetes Disponibles Messages/Read Services Msg/Read Services Msg.lvclass"/>
 		<Item Name="Service Selected Msg.lvclass" Type="LVClass" URL="../../Paquetes Disponibles Messages/Service Selected Msg/Service Selected Msg.lvclass"/>
 		<Item Name="Timestamp Msg.lvclass" Type="LVClass" URL="../../Paquetes Disponibles Messages/Timestamp Msg/Timestamp Msg.lvclass"/>
-		<Item Name="Update database Msg.lvclass" Type="LVClass" URL="../../Paquetes Disponibles Messages/Update database Msg/Update database Msg.lvclass"/>
 		<Item Name="Validate Database Msg.lvclass" Type="LVClass" URL="../../Paquetes Disponibles Messages/Validate Database Msg/Validate Database Msg.lvclass"/>
 	</Item>
 	<Item Name="Paquetes Disponibles.lvclass" Type="LVClass" URL="../Paquetes Disponibles.lvclass"/>
