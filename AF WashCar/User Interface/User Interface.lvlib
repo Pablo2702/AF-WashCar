@@ -13,7 +13,9 @@
 		<Item Name="Create Database Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Create Database Msg/Create Database Msg.lvclass"/>
 		<Item Name="Credit manage Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Credit manage Msg/Credit manage Msg.lvclass"/>
 		<Item Name="Data to DataBase Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Data to DataBase Msg/Data to DataBase Msg.lvclass"/>
+		<Item Name="Get Times Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Get Times Msg/Get Times Msg.lvclass"/>
 		<Item Name="Load inventory Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Load inventory Msg/Load inventory Msg.lvclass"/>
+		<Item Name="Results Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Results Msg/Results Msg.lvclass"/>
 		<Item Name="Validate Purchase Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Validate Purchase Msg/Validate Purchase Msg.lvclass"/>
 	</Item>
 	<Item Name="User Interface.lvclass" Type="LVClass" URL="../User Interface.lvclass"/>
