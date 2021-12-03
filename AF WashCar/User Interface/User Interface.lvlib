@@ -16,6 +16,8 @@
 		<Item Name="Get Times Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Get Times Msg/Get Times Msg.lvclass"/>
 		<Item Name="Load inventory Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Load inventory Msg/Load inventory Msg.lvclass"/>
 		<Item Name="Results Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Results Msg/Results Msg.lvclass"/>
+		<Item Name="Stop Total Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Stop Total Msg/Stop Total Msg.lvclass"/>
+		<Item Name="Stop Turnos Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Stop Turnos Msg/Stop Turnos Msg.lvclass"/>
 		<Item Name="Validate Purchase Msg.lvclass" Type="LVClass" URL="../../User Interface Messages/Validate Purchase Msg/Validate Purchase Msg.lvclass"/>
 	</Item>
 	<Item Name="User Interface.lvclass" Type="LVClass" URL="../User Interface.lvclass"/>
